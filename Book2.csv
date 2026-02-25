@@ -1,4 +1,5 @@
-﻿BIES;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;http://example.com/employee/profile;BP;TAG;FALSE;PAU(T;(2025-0)-01-01-/F
+name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
+BIES;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;http://example.com/employee/profile;BP;TAG;FALSE;PAU(T;(2025-0)-01-01-/F
 SBS;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;http://example.com/employee/profile;BAP;TAG;FALSE;APAU(T;(2025-0)-01-07-/F
 IK;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;http://example.com/employee/profile;SJ;TAG;FALSE;SJ;(2025-0)-01
 NWL;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;http://example.com/employee/profile;BUdLP;TAG;FALSE;PP(T;(2025-0)-01-05-/F
@@ -696,4 +697,5 @@ AH;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Orga
 MN;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;http://example.com/employee/profile;BH;TAG;FALSE;PKAPdBNT(FT;(2025-0)-01-04-01-01-FG
 RES;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;http://example.com/employee/profile;PDdSI;TAG;FALSE;PKAPdBNT(FT;(2025-0)-01-08-01-FG
 AIS;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;http://example.com/employee/profile;BUdLP;TAG;FALSE;PP(U;(2025-0)-01-05-FU
+
 MI;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;http://example.com/employee/profile;BUdLP;TAG;FALSE;PP(U;(2025-0)-01-05-FU
